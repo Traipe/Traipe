@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mari mari ! 🙌🏽
+# Hey there!  👋🏽
+# Holaaa !    🙋🏽‍♀️
 
-<!--
-**Traipe/Traipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! Bienvenidx! Traawpayu!
+I'm **Jimena**, a passionate software development student on my journey to becoming a certified Full Stack Python Developer.
 
-Here are some ideas to get you started:
+### living in chile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **What I do:** I focus on programming and developing applications, especially with emerging technologies like Python.
+- 🎓 **Education:** Currently finishing a Full Stack Python Development program through Talento Digital Chile, Sence, and Altaexperticia. I’ve also completed an IT Support course on Coursera and am pursuing a Cybersecurity certification.
+- 🌱 **Experience:** As a novice in the field, my eagerness to learn and solid foundation make me an ideal candidate for innovative and committed projects.
+
+### 📬 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/jimenatraipe/)
+- [Email](jimenatraipe@outlook.com)
+
+
+
+
+### ✨ Personal Motto
+
+# "Si caes, aprendes" 🌟
+
+- 👻 Fun fact:
+    >> Love to drink mate every day 🧉🫖
+    >> me gustan: 🚴🏽‍♀🛹🐈‍⬛🧘🏽‍♀️
+    >> Maestra nivel 32 en Pokémon GO
+    >> 
+
+---
+
+Thanks for visiting my profile! 🪻
+
+Gracias por visitar mi perfil ! ✨
+
+Mañümeyu tami witran ! 🌻
