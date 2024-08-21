@@ -1,8 +1,11 @@
-# Mari mari ! 🙌🏽
-# Hey there!  👋🏽
-# Holaaa !    🙋🏽‍♀️
+##                                                                                 Mari mari ! 🙌🏽
 
-Welcome! Bienvenidx! Traawpayu!
+##                                                                                 Hey there!  👋🏽
+
+##                                                                                 Holaaa !    🙋🏽‍♀️
+
+### Welcome! Bienvenidx! Traawpayu!
+
 I'm **Jimena**, a passionate software development student on my journey to becoming a certified Full Stack Python Developer.
 
 ### living in chile
@@ -15,7 +18,6 @@ I'm **Jimena**, a passionate software development student on my journey to becom
 
 - [LinkedIn](https://www.linkedin.com/in/jimenatraipe/)
 - [Email](jimenatraipe@outlook.com)
-
 
 
 
