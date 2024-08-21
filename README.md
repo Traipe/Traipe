@@ -26,10 +26,10 @@ I'm **Jimena**, a passionate software development student on my journey to becom
 # "Si caes, aprendes" 🌟
 
 - 👻 Fun fact:
-    >> Love to drink mate every day 🧉🫖
-    >> me gustan: 🚴🏽‍♀🛹🐈‍⬛🧘🏽‍♀️
-    >> Maestra nivel 32 en Pokémon GO
-    >> 
+    * Love to drink mate every day 🧉🫖
+    * me gustan: 🚴🏽‍♀🛹🐈‍⬛🧘🏽‍♀️
+    * Maestra nivel 32 en Pokémon GO
+     
 
 ---
 
