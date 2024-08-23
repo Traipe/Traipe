@@ -1,16 +1,18 @@
-🌟 Hola, Mundo! 🌍
-Mari mari! 🙌🏽 | Hey there! 👋🏽 | Holaaa! 🙋🏽‍♀️
+### 🌟 Hola, Mundo! 🌍
+## Mari mari! 🙌🏽 | Hey there! 👋🏽 | Holaaa! 🙋🏽‍♀️
 
-¡Bienvenidx a mi perfil! Soy Jimena, una estudiante apasionada de desarrollo de software en mi camino para convertirme en una desarrolladora Full Stack Python certificada.
+# ¡Bienvenidx a mi perfil! Soy Jimena, una estudiante apasionada de desarrollo de software en mi camino para convertirme en una desarrolladora Full Stack Python certificada.
 
 📍 Desde Chile 🇨🇱
-💻 ¿Qué hago?
+# 💻 Lo que hago ? ...
+
 Me enfoco en programación y desarrollo de aplicaciones, especialmente con tecnologías emergentes como Python.
 
-🎓 Educación
+# 🎓 Educación
 Actualmente: Finalizando un programa de Desarrollo Full Stack Python a través de Talento Digital Chile, Sence y Altaexperticia.
 Certificación: Curso de Soporte TI en Coursera. ¡🎓✨!
-🛠️ Habilidades
+
+# 🛠️ Habilidades
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -22,10 +24,11 @@ Certificación: Curso de Soporte TI en Coursera. ¡🎓✨!
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows"/>
 </div>
-🌱 Experiencia
+
+# 🌱 Experiencia
 Como novata en el campo, mi ansias de aprender y sólida base me convierten en una candidata ideal para proyectos innovadores y comprometidos.
 
-📬 Contáctame
+# 📬 Contáctame
 <div>
   <a href="https://www.linkedin.com/in/jimenatraipe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -34,16 +37,21 @@ Como novata en el campo, mi ansias de aprender y sólida base me convierten en u
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-✨ Lema Personal
-"Si caes, aprendes" 🌟
 
-👻 Datos Divertidos
+## ✨ Lema Personal
+# "Si caes, aprendes" 🌟
+
+
+# 👻 Fun Facts 
+
 Me encanta: tomar mate todos los días 🧉🫖
 Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🧘🏽‍♀️
 Nivel 32 en Pokémon GO 🎮
-¡Gracias por visitar mi perfil! 🪻
 
-¡Gracias por tu visita! ✨
 
-¡Mañümeyu tami witran! 🌻
+## ¡Gracias por visitar mi perfil! 🪻
+
+## ¡Gracias por tu visita! ✨
+
+## ¡Mañümeyu tami witran! 🌻
 
