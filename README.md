@@ -46,11 +46,15 @@ Principiante con ansias de aprender, capacidad de constancia en distintos intere
 
 ## 👻 Fun Facts 
 
-Me encanta: tomar mate todos los días 🧉🫖
-Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🐕🧘🏽‍♀️📷🎞📽👗
-Nivel 35 en Pokémon GO 🎮
+Me encanta: 
+- tomar mate todos los días 🧉🫖
+- Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🐕🧘🏽‍♀️📷🎞📽👗
+- Nivel 35 en Pokémon GO 🎮
 
 
+
+
+.
 
 ## ¡Mañümeyu tami witran! 🌻
 
