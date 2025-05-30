@@ -2,16 +2,17 @@
 
 ## Mari mari! 🙌🏽 | Hey there! 👋🏽 | Holaaa! 🙋🏽‍♀️
 
-### ¡Bienvenidx a mi perfil! Soy Jimena, una estudiante apasionada de desarrollo de software en mi camino para convertirme en una desarrolladora Full Stack Python certificada.
-
+### ¡Bienvenidx a mi perfil! Soy Jimena, una aprendiz de progamación. Mente curiosa, en constante movimiento y sed de conocimiento
 📍 Desde Chile 🇨🇱
 ## 💻 Lo que hago ? ...
 
-Me enfoco en programación y desarrollo de aplicaciones, especialmente con tecnologías emergentes como Python.
+Me enfoco en programación y desarrollo de aplicaciones, especialmente con tecnologías emergentes como Python. 
 
 ## 🎓 Educación
-Actualmente: Finalizando un programa de Desarrollo Full Stack Python a través de Talento Digital Chile, Sence y Altaexperticia.
-Certificación: Curso de Soporte TI en Coursera. ¡🎓✨!
+Actualmente: Cursando el programa de Seguridad en Sistemas Operativos Windows Server y Linux a través de Talento Digital Chile, Sence e Inforcap.
+Certificación: 
+- Curso de Soporte TI en Coursera. ¡🎓✨!
+- Desarrollo Full Stack Python a través de Talento Digital Chile, Sence y Altaexperticia.
 
 ## 🛠️ Habilidades
 <div>
@@ -27,7 +28,7 @@ Certificación: Curso de Soporte TI en Coursera. ¡🎓✨!
 </div>
 
 ## 🌱 Experiencia
-Como novata en el campo, mi ansias de aprender y sólida base me convierten en una candidata ideal para proyectos innovadores y comprometidos.
+Principiante con ansias de aprender, capacidad de constancia en distintos intereses personales. Candidata ideal para proyectos innovadores y comprometidos.
 
 ## 📬 Contáctame
 <div>
@@ -46,13 +47,16 @@ Como novata en el campo, mi ansias de aprender y sólida base me convierten en u
 ## 👻 Fun Facts 
 
 Me encanta: tomar mate todos los días 🧉🫖
-Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🧘🏽‍♀️
-Nivel 32 en Pokémon GO 🎮
+Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🐕🧘🏽‍♀️📷🎞📽👗
+Nivel 35 en Pokémon GO 🎮
 
+
+
+## ¡Mañümeyu tami witran! 🌻
 
 ## ¡Gracias por visitar mi perfil! 🪻
 
-## ¡Gracias por tu visita! ✨
+## ¡Thank you for visiting my profile ✨
 
-## ¡Mañümeyu tami witran! 🌻
+
 
