@@ -1,4 +1,4 @@
-# 🌟 Hola, CHICAS! 🌍
+# 🌟 Hola, Mundo! 🌍
 
 ## Mari mari! 🙌🏽 | Hey there! 👋🏽 | Holaaa! 🙋🏽‍♀️
 
