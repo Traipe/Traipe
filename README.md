@@ -1,26 +1,31 @@
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/7833aec6-40f6-425e-a293-82e0fc2757da" />
+
+
 # 🌟 Hola, Mundo! 🌍
 
 ## Mari mari! 🙌🏽 | Hey there! 👋🏽 | Holaaa! 🙋🏽‍♀️
 
-### ¡Bienvenidx a mi perfil! Soy Jimena, aprendiz de programación y facilitadora digital.  
-Mente curiosa, en constante movimiento y con sed de conocimiento.  
+### ¡Éste es mi perfil! Mi nombre es Jimena Traipe, Desarrolladora Full Stack y relatora digital. 
+Mente curiosa, en constante movimiento y con sed de conocimiento lista para los desafíos.
 📍 Desde Chile 🇨🇱
 
 ---
 
 ## 💻 Lo que hago
 
-Me enfoco en **programación y desarrollo web**, aplicando tecnologías emergentes como **Python** y ahora profundizando en **Front-end**.  
+Me enfoco en **programación y desarrollo web**, aplicando tecnologías emergentes como **Python** y ahora profundizando en **Front-end** cursando Desarrollo de Aplicaciones Front-End Trainee
+(JavaScript y Vue.js).  
 Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y proyectos educativos.
 
 ---
 
 ## 🎓 Educación
 
-- ✅ Curso de **Ciberseguridad en Sistemas Operativos Windows Server y Linux** – Talento Digital Chile, Sence e Inforcap.  
-- ✅ Certificación en **Soporte TI** – Coursera.  
-- ✅ **Desarrollo Full Stack Python** – Talento Digital Chile, Sence y Altaexperticia.  
-- 📚 Actualmente: **Front-end Trainee** – aprendiendo HTML, CSS, JavaScript y frameworks modernos.  
+
+- ✅ **2023**Certificación en **Soporte TI** – Coursera.  
+- ✅ **2024 Desarrollo Full Stack Python** – Talento Digital Chile, Sence y Altaexperticia
+- ✅ **2025**Curso de **Ciberseguridad en Sistemas Operativos Windows Server y Linux** – Talento Digital Chile, Sence e Inforcap  
+- 📚 **Actualmente 2026**: **Front-end Trainee** – aprendiendo HTML, CSS, JavaScript y Vue.js 
 
 ---
 
@@ -42,8 +47,9 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 
 ## 🌱 Experiencia
 
-- Principiante con ansias de aprender y constancia en distintos intereses tecnológicos.  
-- Experiencia en proyectos educativos y de formación digital.  
+- Principiante con ansias de aprender y constancia en distintos intereses tecnológicos.
+- Cursando a través de programas de Talento Digital para Chile, since 2023
+- Experiencia en proyectos educativos y de formación digital.
 - Candidata ideal para proyectos innovadores, seguros y comprometidos.  
 
 ---
@@ -69,9 +75,9 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 ## 👻 Fun Facts  
 
 Me encanta:  
-- tomar mate todos los días 🧉🫖  
+- tomar mate 🧉🫖  
 - Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🐕🧘🏽‍♀️📷🎞📽👗  
-- Nivel 45 en Pokémon GO 🎮  
+- Nivel 47 en Pokémon GO 🎮  
 
 ---
 
