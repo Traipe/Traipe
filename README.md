@@ -80,10 +80,9 @@ Me encanta:
 - Nivel 48 en Pokémon GO 🎮
 - <div align="center">
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="150">
-  <h3>¡Cuidado! Un Gengar salvaje ha aparecido 👻</h3>"120">
-  <h5>Encuentrame como:</h5>
-  <p>PireMawiza</p>
-</div>
+  <h3>¡Cuidado! Un Gengar salvaje ha aparecido 👻</h3>
+  <h5>Encuentrame como: PireMawiza</h5>
+ </div>
 
 ---
 
