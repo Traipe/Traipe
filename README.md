@@ -77,7 +77,13 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 Me encanta:  
 - tomar mate 🧉🫖  
 - Hobbies: 🚴🏽‍♀️🛹🐈‍⬛🐕🧘🏽‍♀️📷🎞📽👗  
-- Nivel 47 en Pokémon GO 🎮  
+- Nivel 48 en Pokémon GO 🎮
+- <div align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="150">
+  <h3>¡Cuidado! Un Gengar salvaje ha aparecido 👻</h3>"120">
+  <h5>Encuentrame como:</h5>
+  <p>PireMawiza</p>
+</div>
 
 ---
 
