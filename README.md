@@ -67,8 +67,8 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 
 ---
 
-## ✨ Lema Personal
-> "Si caes, aprendes" 🌟
+## ✨ Logo 
+| <img src="PEGA_AQUÍ_EL_LINK_QUE_COPIASTE" alt="Traipe Logo" width="500">
 
 ---
 
@@ -86,8 +86,8 @@ Me encanta:
 
 ---
 
-## 🌻 ¡Mañümeyu tami witran!  
-## 🪻 ¡Gracias por visitar mi perfil!  
-## ✨ Thank you for visiting my profile
+##  ¡Mañümeyu tami witran!  
+##  ¡Gracias por visitar mi perfil!  
+##  Thank you for visiting my profile
 
 
