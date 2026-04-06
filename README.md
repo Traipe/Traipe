@@ -69,7 +69,7 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 
 ## ✨ Logo 
 <div align="center">
-| <img src="traipe_logo16.png" alt="Traipe Logo" width="100">
+<img src="traipe_logo16.png" alt="Traipe Logo" width="200">
 </div>
 
 ---
