@@ -23,9 +23,9 @@ Me apasiona crear soluciones creativas, accesibles y seguras para usuarios y pro
 
 
 - ✅ **2023**Certificación en **Soporte TI** – Coursera.  
-- ✅ **2024 Desarrollo Full Stack Python** – Talento Digital Chile, Sence y Altaexperticia
-- ✅ **2025**Curso de **Ciberseguridad en Sistemas Operativos Windows Server y Linux** – Talento Digital Chile, Sence e Inforcap  
-- 📚 **Actualmente 2026**: **Front-end Trainee** – aprendiendo HTML, CSS, JavaScript y Vue.js 
+- ✅ **2024 Bootcamp Desarrollo Full Stack Python** – Talento Digital Chile, Sence y OTEC Altaexperticia
+- ✅ **2025 **Bootcamp de Ciberseguridad en Sistemas Operativos Windows Server y Linux** – Talento Digital Chile, Sence e Inforcap  
+- 📚 **2026**: **Bootcamp Front-end Trainee, framework Vue.js** –  Talento Digital Chile, Sence , OTEC Fundación Luterana 
 
 ---
 
